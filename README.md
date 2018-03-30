@@ -1,4 +1,4 @@
-# timingPerformance
+# TimingPerformance
 To test a website's timing performance using selenium 
 
 # Dependence
