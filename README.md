@@ -2,9 +2,9 @@
 To test a website's timing performance using selenium 
 
 # Dependence
-1. selenium
-2. firefox(geckodriver)
-3. Xvfb
+1.  selenium
+2.  firefox (geckodriver)
+3.  Xvfb
 
 # Usage
 Please just run the python script, and change the website.
@@ -24,7 +24,7 @@ tcp           335.00 ms
 ttfb          717.00 ms
 ```
 # Reference
-Myblog（https://blog.csdn.net/hsdfz0201/article/details/77481030）
+[Myblog]（https://blog.csdn.net/hsdfz0201/article/details/77481030）
 
 # License
-GPL 3.0（http://www.gnu.org/licenses/gpl-3.0.en.html）
+[GPL 3.0]（http://www.gnu.org/licenses/gpl-3.0.en.html）
