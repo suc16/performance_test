@@ -1,7 +1,13 @@
-from pyvirtualdisplay import Display
-from selenium import webdriver
+#!/usr/bin/python3
+# -*- coding=utf-8 -*-
+#
+# __author__ = SuChen
+#
+
 import json
 import time
+from selenium import webdriver
+from pyvirtualdisplay import Display
 
 # Get date as timestamp
 print("Begin at %s \n" % time.ctime())
